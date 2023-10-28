@@ -10,3 +10,6 @@ function one(){
     var b = 20 ;
     console.log(b);
  }
+
+//  efgyufweguiywefgfuie
+// op[wrgsiogwru9igrwui9opgWRJ]
